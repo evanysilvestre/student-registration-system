@@ -18,8 +18,7 @@ This is a Java-based console application that allows you to register and manage 
 - Java (JDK 21+)
 - Object-Oriented Programming (OOP)
 
-## 📁 Project Structure
-<pre lang="markdown"> <code>## 📁 Project Structure ``` src/ ├── app/ # Main class (program entry point) ├── model/ # Student classes ├── service/ # Student management (business logic) ``` </code> </pre>
+## 📁 Project Structure ``` src/ ├── app/ # Main class (program entry point) ├── model/ # Student classes ├── service/ # Student management (business logic) ```
 
 ## 🚀 How to Run
 Compile and run the `Main` class inside the `app` package using your IDE or terminal.
